@@ -46,7 +46,7 @@ This guide provides step by step instructions for setting up TurtleBot3 navigati
     roslaunch turtlebot3_gazebo turtlebot3_world.launch
     ```
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d99d603-dddb-4185-a3f9-4b447470c16f" alt="Robotic Arm Image 1" width="600" height="600">
+  <img src="https://github.com/user-attachments/assets/9d99d603-dddb-4185-a3f9-4b447470c16f" alt="Robotic Arm Image 1" width="800" height="800">
 </p>
 
 ![image](https://github.com/user-attachments/assets/9d99d603-dddb-4185-a3f9-4b447470c16f)
