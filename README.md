@@ -76,7 +76,9 @@ This guide provides step by step instructions for setting up TurtleBot3 navigati
 ![image](https://github.com/user-attachments/assets/bf0def84-7cd9-4232-a4a4-0ec8bb8a3584)
     
 ## Acknowledgments
+http://wiki.ros.org/turtlebot3
 
+https://www.youtube.com/watch?v=QP-cxh8qUJQ
 
 
 
