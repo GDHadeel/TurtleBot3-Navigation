@@ -49,8 +49,6 @@ This guide provides step by step instructions for setting up TurtleBot3 navigati
   <img src="https://github.com/user-attachments/assets/9d99d603-dddb-4185-a3f9-4b447470c16f" alt="Robotic Arm Image 1" width="800" height="800">
 </p>
 
-![image](https://github.com/user-attachments/assets/9d99d603-dddb-4185-a3f9-4b447470c16f)
-
 ### Step 4: Create a Map Using SLAM
 
   * Launch the SLAM node with Gmapping:
@@ -62,9 +60,17 @@ This guide provides step by step instructions for setting up TurtleBot3 navigati
     ```bash
     roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
     ```
-![image](https://github.com/user-attachments/assets/3401c612-3ea3-418e-b38f-1e6a1a8cbc9a)
-![image](https://github.com/user-attachments/assets/7a19f1db-73ba-4e7d-8d0a-5c3154b10794)
-![image](https://github.com/user-attachments/assets/64206435-f176-4fb9-85e6-e5679b09e58e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3401c612-3ea3-418e-b38f-1e6a1a8cbc9a" alt="Robotic Arm Image 1" width="800" height="800">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a19f1db-73ba-4e7d-8d0a-5c3154b10794" alt="Robotic Arm Image 1" width="800" height="800">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/64206435-f176-4fb9-85e6-e5679b09e58e" alt="Robotic Arm Image 1" width="800" height="800">
+</p>
 
   * After exploring the environment and building a map, save the map by running the following command in a new terminal:
     ```bash
