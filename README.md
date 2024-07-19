@@ -1,6 +1,6 @@
 # TurtleBot3-Navigation
 
-# Task 6: Launch TurtleBot navigation
+# Task 5: Launch TurtleBot navigation
 
 ## Description
 
