@@ -46,7 +46,7 @@ This guide provides step by step instructions for setting up TurtleBot3 navigati
     roslaunch turtlebot3_gazebo turtlebot3_world.launch
     ```
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d99d603-dddb-4185-a3f9-4b447470c16f" alt="Robotic Arm Image 1" width="800" height="800">
+  <img src="https://github.com/user-attachments/assets/9d99d603-dddb-4185-a3f9-4b447470c16f" alt="Robotic Arm Image 1" width="700" height="700">
 </p>
 
 ### Step 4: Create a Map Using SLAM
@@ -61,15 +61,15 @@ This guide provides step by step instructions for setting up TurtleBot3 navigati
     roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
     ```
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3401c612-3ea3-418e-b38f-1e6a1a8cbc9a" alt="Robotic Arm Image 1" width="800" height="800">
+  <img src="https://github.com/user-attachments/assets/3401c612-3ea3-418e-b38f-1e6a1a8cbc9a" alt="Robotic Arm Image 1" width="700" height="700">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7a19f1db-73ba-4e7d-8d0a-5c3154b10794" alt="Robotic Arm Image 1" width="800" height="800">
+  <img src="https://github.com/user-attachments/assets/7a19f1db-73ba-4e7d-8d0a-5c3154b10794" alt="Robotic Arm Image 1" width="700" height="700">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/64206435-f176-4fb9-85e6-e5679b09e58e" alt="Robotic Arm Image 1" width="800" height="800">
+  <img src="https://github.com/user-attachments/assets/64206435-f176-4fb9-85e6-e5679b09e58e" alt="Robotic Arm Image 1" width="700" height="700">
 </p>
 
   * After exploring the environment and building a map, save the map by running the following command in a new terminal:
@@ -83,7 +83,9 @@ This guide provides step by step instructions for setting up TurtleBot3 navigati
     ```bash
     roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
     ```
-![image](https://github.com/user-attachments/assets/bf0def84-7cd9-4232-a4a4-0ec8bb8a3584)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf0def84-7cd9-4232-a4a4-0ec8bb8a3584" alt="Robotic Arm Image 1" width="700" height="700">
+</p>
     
 ## Acknowledgments
 http://wiki.ros.org/turtlebot3
