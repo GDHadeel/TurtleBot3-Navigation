@@ -46,8 +46,9 @@ This guide provides step by step instructions for setting up TurtleBot3 navigati
     roslaunch turtlebot3_gazebo turtlebot3_world.launch
     ```
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d99d603-dddb-4185-a3f9-4b447470c16f" alt="Robotic Arm Image 1" width="400" height="400">
+  <img src="https://github.com/user-attachments/assets/9d99d603-dddb-4185-a3f9-4b447470c16f" alt="Robotic Arm Image 1" width="600" height="600">
 </p>
+
 ![image](https://github.com/user-attachments/assets/9d99d603-dddb-4185-a3f9-4b447470c16f)
 
 ### Step 4: Create a Map Using SLAM
