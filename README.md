@@ -12,7 +12,7 @@ This guide provides step by step instructions for setting up TurtleBot3 navigati
 * ROS Noetic installed on your system
 * Ubuntu 20.04 (Focal Fossa)
 
-# Step 1: Install TurtleBot3 Packages
+### Step 1: Install TurtleBot3 Packages
 
   * First, update your package list and install the TurtleBot3 packages:
     ```bash
@@ -25,7 +25,7 @@ This guide provides step by step instructions for setting up TurtleBot3 navigati
     sudo apt install ros-noetic-navigation ros-noetic-slam-gmapping    
     ```
 
-# Step 2: Set Up the Environment
+### Step 2: Set Up the Environment
 
   * Add the TurtleBot3 model to your .bashrc file:
     ```bash
@@ -39,7 +39,7 @@ This guide provides step by step instructions for setting up TurtleBot3 navigati
     source /opt/ros/noetic/setup.bash  
     ```
 
-# Step 3: Launch the TurtleBot3 Simulation
+### Step 3: Launch the TurtleBot3 Simulation
 
   * Launch the TurtleBot3 world in Gazebo:
     ```bash
@@ -47,7 +47,7 @@ This guide provides step by step instructions for setting up TurtleBot3 navigati
     ```
 ![image](https://github.com/user-attachments/assets/9d99d603-dddb-4185-a3f9-4b447470c16f)
 
-# Step 4: Create a Map Using SLAM
+### Step 4: Create a Map Using SLAM
 
   * Launch the SLAM node with Gmapping:
     ```bash
@@ -67,7 +67,7 @@ This guide provides step by step instructions for setting up TurtleBot3 navigati
     rosrun map_server map_saver -f ~/map
     ```
 
-# Step 5: Launch Navigation
+### Step 5: Launch Navigation
 
   * Finally, launch the TurtleBot3 navigation with the saved map:
     ```bash
